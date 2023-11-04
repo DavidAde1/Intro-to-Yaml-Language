@@ -1,0 +1,23 @@
+#key value pair
+
+"apple" : "I am a red fruit"
+1 : "Praise matric number"
+
+# differentiating three documents in the file
+---  
+
+# lists
+-apple
+-mango
+-Apple
+-Mango
+---
+
+cities:
+-new delhi
+-mumbia
+-lagos
+
+cities: [new delhi,mumbia,lagos]
+{mango: "yellow", age: 56}
+... 

@@ -1,0 +1,41 @@
+Practice University:
+  Vice Chancellor Info: {name: "Prof Adeleke David", Phone number: 080974636374, Email address: adeleke@practice.edu.uk}
+  Dean of Student Affairs: {name: "Dr Christain Peter", Phone number: 09034576354, Email address: peter@practice.edu.uk}
+  Jobs Available: [IT Admin, lecturer, Non-Academic Staffs, Treasurer, Librarian, CLinic Staff]
+  Colleges:
+    Faculty of ICT:
+      -Computer Science:
+        HOD: "Prof Babatunde"
+        Examiner: "Dr Rafiu"
+        Secretary: "Mrs oladele"
+      -Mass Communication:
+        HOD: "Prof Ahmed"
+        Examiner: "Mrs Kalid"
+        Secretary: "Mr Adejare"
+      -Library and Information Science(LIS):
+        HOD: "Dr Aminu"
+        Examiner: "Mr Aliu"
+        Secretary: "Mrs Bolanle"
+    
+    Faculty of Engineering:
+      -Mechanical Engineering:
+        HOD: "Dr Adio"
+        Examiner: "Mr Yussuf"
+        Secretary: "Mrs Adiu"
+      -Electrical Engineering:
+        HOD: "Prof Aminu"
+        Examiner: "Mr Alake"
+        Secretary: "Mrs Adeola"
+      -Civil Engineering:
+        HOD: "Dr Amos"
+        Examiner: "Mr Rafael"
+        Secretary: "Mrs Smith"
+      -Agricultural Engineering:
+        HOD: "Dr Washington"
+        Examiner: "Mr David"
+        Secretary: "Mr Sarah"
+      -Material Science:
+        HOD: "Prof Daniel"
+        Examiner: "Dr Ahmed"
+        Secretary: "Mrs Bolanle"
+

@@ -1,0 +1,41 @@
+#sting variables
+name: "David Adekoyejo"
+fruit: "apple"
+job: 'SWE'
+
+#to add sepearate lines
+bio: |
+hey my name is david and i'm learning devops
+i really want to be great in this
+
+#write a single line in multiple lines
+message: >
+this will 
+all 
+be in 
+one single line
+#same as
+message: !!str this will all be in one line
+
+#booleanvalue
+booleanValue: !!bool NO #n, N, false,FALSE, False
+#same for true
+#floating point number
+marks: 34.6
+
+#specify the type
+xero: !!int 0
+positiveNum: !!int 45
+hexa: !!int 0x5
+negativeNum: !!int -45
+exponential numbers: 6.2E
+
+#floating point numbers 
+marks: !!float 56.78
+infinite: !!float .infinite
+
+#null
+surname: !!null Null #or !!null NULL
+
+#dates 
+date: !!timestamp 2022-01-01
